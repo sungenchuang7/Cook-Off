@@ -24,5 +24,5 @@ P1's movement is controlled by the 4 arrow keys on the keyboard and P2's W, A, S
 | Pick up/put down/drop ingredients/cooked food   | V         | Mouse left-click     |
 | Attack | B | Mouse right-click|
 
-
+*The sound track was downloaded from https://www.youtube.com/watch?v=5APLVwcWgHk&t=98s. No copyright infringement is intended. All images and graphs were hand-drawn.*
 
