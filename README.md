@@ -16,7 +16,7 @@ Once the time's up, the round is over. The scores of both players will be shown.
 
 # Key bindings for this game
 
-P1's movement is controlled by the 4 arrow keys on the keyboard and P2's W, A, S, D keys (corresponding to up, left, down, right). To pick up stuff, press V for P1 and left-click on the mouse for P2. 
+P1's movement is controlled by the 4 arrow keys on the keyboard and P2's W, A, S, D keys (corresponding to up, left, down, right). To pick up stuff, press V for P1 and left-click on the mouse for P2. To attack, press V for P1 and right-click on the mouse for P2.
 
 |       | Player 1 | Player2     |
 | :---        |    :----:   |          ---: |
