@@ -3,7 +3,7 @@ import pygame
 
 class timer:
     def __init__(self):
-        self.time_left = 20  # duration of the timer in seconds
+        self.time_left = 60  # duration of the timer in seconds
         self.font = pygame.font.SysFont("Arial", 30)
         self.color = (255, 255, 255)
         self.startTime = time.time()
