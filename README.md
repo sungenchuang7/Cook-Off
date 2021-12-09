@@ -1,9 +1,7 @@
 # Programming-for-Business-Computing-Final-Project
 
-This is a 2-player competivie cooking game written using Python for the final project of the course Programming for Business Computing.
+This is a 2-player competivie cooking game written using Python 3 for the final project of the course Programming for Business Computing.
 The inspiration for the development of this game was the famous Nintendo Switch game *Overcooked*. Since I liked cooking for leisure, I thought it would be interesting to write an immitation of it. 
-
-*To be able to run this game, the Python package **pygame** needs to be installed (simply type pip install pygame in your terminal/cmd to start installation).*
 
 # Game Introduction
 
@@ -15,6 +13,8 @@ Once the time's up, the round is over. The scores of both players will be shown.
 
 # Key bindings for this game
 
+Unfortunately, the 2 players must play this game on a single keyboard.
+
 P1's movement is controlled by the 4 arrow keys on the keyboard and P2's W, A, S, D keys (corresponding to up, left, down, right). To pick up stuff, press V for P1 and left-click on the mouse for P2. To attack, press V for P1 and right-click on the mouse for P2.
 
 |       | Player 1 | Player2     |
@@ -22,6 +22,11 @@ P1's movement is controlled by the 4 arrow keys on the keyboard and P2's W, A, S
 | Movement     | Arrow Keys       | W, A, S, D   |
 | Pick up/put down/drop ingredients/cooked food   | V         | Mouse left-click     |
 | Attack | B | Mouse right-click|
+
+# How to install and play this game on your computer?
+
+Simply download the whole repository and run main.py using a Python 3 interpreter. You need the Python package pygame to play it, so if it hasn't been installed on your computer, you need to install it first. 
+
 
 *The sound track was downloaded from https://www.youtube.com/watch?v=5APLVwcWgHk&t=98s. No copyright infringement is intended. All images and graphs were hand-drawn.*
 
