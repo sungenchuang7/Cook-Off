@@ -1,12 +1,11 @@
 # Programming-for-Business-Computing-Final-Project
 
 This is a 2-player competivie cooking game written using Python for the final project of the course Programming for Business Computing.
-The inspiration for the development of this game was the famous Nintendo Switch game *Overcooked*.
-
-Since I liked cooking for leisure, I thought it would be interesting to write an immitation of it. 
+The inspiration for the development of this game was the famous Nintendo Switch game *Overcooked*. Since I liked cooking for leisure, I thought it would be interesting to write an immitation of it. 
 
 *To be able to run this game, the Python package **pygame** needs to be installed (simply type pip install pygame in your terminal/cmd to start installation).*
 
+# Game Introduction
 
 This game consists of 2 players. Let's call them P1 and P2 here. They compete to serve as many orders as possible within 60 seconds. When the game starts, on the top-left corner, there will be 2 randomly generated recipes. Players should move around the kitchen, pick up the correct ingredients and put them into the pot (there are 3 pots, you can use either one, or multiple ones if you want to cook recipes at the same time) in the correct order according to the recipes (wrong ingredients/order will result in inservable food). Once the food is ready to serve (as indicated by the text "done"), players should pick it up and put it in the serving area (area marked by the text "service please"). Once the food is served, a point will be added to the respective scoreboard of the player who's served the food and the recipe cooked will be replaced by another randomly generated recipe. 
 
