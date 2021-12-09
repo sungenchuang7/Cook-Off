@@ -28,5 +28,7 @@ P1's movement is controlled by the 4 arrow keys on the keyboard and P2's W, A, S
 Simply download the whole repository and run main.py using a Python 3 interpreter. You need the Python package pygame to play it, so if it hasn't been installed on your computer, you need to install it first. 
 
 
-*The sound track was downloaded from https://www.youtube.com/watch?v=5APLVwcWgHk&t=98s. No copyright infringement is intended. All images and graphs were hand-drawn.*
+# Copyright disclaimer
+
+The sound track was downloaded from https://www.youtube.com/watch?v=5APLVwcWgHk&t=98s. All images and graphs were hand-drawn. No copyright infringement is intended. 
 
