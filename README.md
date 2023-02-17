@@ -1,7 +1,6 @@
 # An Easy-To-Play, 2-Player Competitive Cooking Game
 
-This is a 2-player competivie cooking game written using Python 3 for the final project of the course Programming for Business Computing.
-The inspiration for the development of this game was the famous Nintendo Switch game *Overcooked*. Since I liked cooking for leisure, I thought it would be interesting to write an immitation of it. 
+This is a multi-player game development project developed using Python and Pygame engine with fine-tuned parameters to optimize performance. 
 
 # Game Introduction
 
